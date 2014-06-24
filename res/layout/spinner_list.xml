@@ -1,0 +1,22 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="wrap_content"
+              android:layout_height="match_parent"
+              android:orientation="vertical"
+        >
+
+    <TextView
+            android:id="@+id/txtSpinnerListTitle"
+            android:layout_height="fill_parent"
+            android:layout_width="100dip"
+            android:textColor="#ffddeecc"
+            style="?android:attr/textAppearanceSmall"
+            />
+
+    <TextView
+            android:id="@+id/txtSpinnerListSubTitle"
+            android:layout_height="fill_parent"
+            android:layout_width="100dip"
+            android:textColor="#ff41ff17"
+            style="?android:attr/textAppearanceSmall"
+            />
+</LinearLayout>

@@ -1,0 +1,29 @@
+<LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center_vertical|left"
+        >
+
+    <TextView
+            android:id="@+id/txtActionBarSpinnerTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="0dp"
+            android:singleLine="true"
+            android:textStyle="bold"
+            android:textColor="#ff41ff17"
+            />
+
+    <TextView
+            android:id="@+id/txtActionBarSpinnerSubTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="0dp"
+            android:singleLine="true"
+            style="?android:attr/spinnerItemStyle"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:textColor="#ffcb1a36"
+            />
+</LinearLayout>
