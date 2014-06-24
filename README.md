@@ -7,4 +7,4 @@ There are two types of navigation: Tabs or List. This last one uses Drop Down Na
 This article focuses on the creation of an Action Bar with **Drop Down Navigation**. 
 We will use a **Custom Spinner** containing both a title and subtitle.
 
-Read the full article (here) [http://www.undroid.info/action-bar-with-custom-spinner-navigation-and-personal-theme/].
+Read the full article [here] (http://www.undroid.info/action-bar-with-custom-spinner-navigation-and-personal-theme/).
